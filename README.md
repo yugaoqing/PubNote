@@ -4,25 +4,24 @@
 
 #iOS技术博客
 
-博客地址 | RSS、URL地址
+博客地址 | 标签、介绍
 ----- | -----
-[OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
-[破船之家](http://beyondvincent.com) | <http://beyondvincent.com/atom.xml>
-[NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
-[Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>
-[唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
-[Lex Tang](http://lexrus.com/) | <http://lexrus.com/feed.xml>
-[念茜的博客](http://nianxi.net) | <http://nianxi.net/feed.xml>
-[Xcode Dev](http://blog.xcodev.com) | <http://blog.xcodev.com/atom.xml>
-[Ted's Homepage](http://wufawei.com/)| <http://wufawei.com/feed>
-[txx's blog](http://blog.t-xx.me) | <http://blog.t-xx.me/atom.xml>
-[sunnyxx的技术博客](http://blog.sunnyxx.com/) | <http://blog.sunnyxx.com/atom.xml>
-[Kevin Blog](http://zhowkev.in) | <http://zhowkev.in/rss>
-[阿毛的蛋疼地](http://www.xiangwangfeng.com) | <http://www.xiangwangfeng.com/atom.xml>
-[亚庆的 Blog](http://billwang1990.github.io) | <http://billwang1990.github.io/atom.xml>
-[Nonomori](http://nonomori.farbox.com) | <http://nonomori.farbox.com/feed>
-[言无不尽](http://tang3w.com) | <http://tang3w.com/atom.xml>
-[Wonderffee's Blog](http://wonderffee.github.io) | <http://wonderffee.github.io/atom.xml>
+[NSHipster](http://nshipster.cn) | Mattt Thompson,effective objective-c
+[Limboy 无网不剩](http://limboy.me/) | Design / Tech / Create / Startup / Life
+[唐巧的技术博客](http://blog.devtang.com) | 媒体人
+[雷纯锋的技术博客](http://blog.leichunfeng.com) | 理论型https://github.com/leichunfeng
+[OneV's Den](http://onevcat.com) | objc,swift
+[破船之家](http://beyondvincent.com) | watch,sprite
+[Lex Tang](https://github.com/lexrus/) |funny ios dev,swift
+[念茜的博客](http://nianxi.net) | 美女IOS程序员，安全方面
+[Xcode Dev](http://blog.xcodev.com) | Mac系统 Unix开发 iOS开发
+[txx's blog](http://blog.txx.im/) | 学习笔记
+[sunnyxx的技术博客](http://blog.sunnyxx.com/) | 理论型
+[isheyes](http://isheyes.com/archives/)|IOS动画，学习笔记
+[Kevin Blog](http://zhowkev.in) | 产品型技术
+[阿毛的蛋疼地](http://www.xiangwangfeng.com) | https://github.com/xiangwangfeng
+[亚庆的 Blog](http://billwang1990.github.io) | 逆向
+[Nonomori](http://nonomori.farbox.com) | watchkit ,swift
 [I'm TualatriX](http://imtx.me) | <http://imtx.me/feed/latest/>
 [Cocoabit](http://blog.cocoabit.com) | <http://blog.cocoabit.com/rss/>
 [nixzhu on scriptogr.am](http://nixzhu.me) | <http://nixzhu.me/feed>
@@ -61,63 +60,92 @@
 [技术哥的博客](http://suenblog.duapp.com/) | <http://suenblog.duapp.com/rss/>
 [老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml>
 [coderyi](http://www.coderyi.com/)|<http://www.coderyi.com/feed>
-[雷纯锋的技术博客](http://blog.leichunfeng.com) | <http://blog.leichunfeng.com/atom.xml>
+[果冻虾仁](https://github.com/guodongxiaren)| 学生，bash,linux
 
 
-#iOS开源框架
+#开源框架_33个2017年必须了解的iOS开源库
 - [YYKit](https://github.com/ibireme/YYKit)
 - [官方开源](http://www.opensource.apple.com/tarballs/)
 - [forkingdog](https://github.com/forkingdog)
 - [YepChat社交框架](https://github.com/CatchChat/Yep)
 
-#代码重构
-- [viewController瘦身]
+#运行时
+- [https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html)
+- [苹果官方运行时](https://developer.apple.com/reference/objectivec/objective_c_runtime?language=objc)
+- [Objective-C Autorelease Pool 的实现原理](http://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
+- [objective-c-associated-objects-implementation-principle](http://blog.leichunfeng.com/blog/2015/06/26/objective-c-associated-objects-implementation-principle/)
 
-#常用开源框架
+#重构与优化
+- [viewController瘦身]
+- [ios crash 收集框架](http://www.cocoachina.com/ios/20150701/12301.html)
+
+
+#live streaming
+- [GPUImage深入对比研究混合开发的各种技术细节](http://www.ios122.com/2015/08/gpuimage/)
+
 
 #代码规范
 - [OC Code Standards](CodingStandards/SUMMARY.md)
 - [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
 - [Code Conventions for the Java Programming Language](https://waylau.gitbooks.io/java-code-conventions/content/index.html)
-- [diff](diff/oc_diff_java.md)
+- [diff](language/oc_diff_java.md)
 
-
+#iOS面试
+- [iOS程序犭袁。](https://github.com/ChenYilong/iOSInterviewQuestions)
+- [不会开机的男孩](http://studentdeng.github.io/blog/2014/02/11/baidu-interview/)
+- [ios-base-theory-record2everyday-mind](ios/ios-base-theory-record2everyday-mind.md)
+#iOS源码分析
+- [github/Draveness](https://github.com/Draveness/iOS-Source-Code-Analyze)
 #MAC
 - [MAC键盘快捷键](https://support.apple.com/zh-cn/HT201236)
-
 - [MAC软件](http://www.ifunmac.com/)
 
 
 #UI
 - [PaintCode](http://www.paintcodeapp.com/)
+- [实时看效果](https://github.com/johnno1962/injectionforxcode)
 
-
+#Android开源框架
+- [告青](https://github.com/yugaoqing/AndroidNote/blob/master/AndroidShare.md)
+- [Trinea](https://github.com/Trinea/android-open-project)
+- [hehonghui](https://github.com/hehonghui/android-tech-frontier)
 
 
 #python
 - [start](http://python.xiaoleilu.com/index.html)
+- [python面试题目](https://github.com/taizilongxu/interview_python)
 
-
-#server
+#server skill
 - [ELKstack日志引擎](https://www.gitbook.com/book/chenryn/kibana-guide-cn/details)
+- [RAP可视化接口管理工具](http://thx.github.io/RAP/index_zh.html)
+- [mobile jdk](http://openjdk.java.net/projects/mobile/)
+- [crap接口管理系统 anjularjs+bootstrap+springMVC](http://api.crap.cn/web.do#/webWebPage/detail/PAGE/WELCOME)
+- [ssh key for github](https://help.github.com/articles/generating-an-ssh-key/)
+- [docker虚拟](https://github.com/yeasy/docker_practice/blob/master/README.md)
 
-
-#MD应用扩展
+#MarkdownTemplate
 
 - [使用markdown语法来写网页ppt](http://wenchao-img.qiniudn.com/markdown.html#slide1)
 
 
-#科学获取信息的姿势
-- [轻量代理ss](https://github.com/clowwindy)
-- [原理](http://www.chinagfw.org/)
+#information flow & Protocol
+- [ss](https://github.com/clowwindy)
+- [openwrt+pdnsd+ss](http://www.m3306.com/archives/41.html)
+- [theory](http://www.chinagfw.org/)
 - [google‘s lantern](https://github.com/getlantern/lantern)
 - [路由器方案OpenWrt](https://www.gitbook.com/book/softwaredownload/openwrt-fanqiang/details)
 
-
-#GIT读书
+- [明月永在-3rd openwrt firmware](https://myop.cf/)
+- [backtrack-linux](http://www.backtrack-linux.org/downloads/)
+- [通讯协议漫谈]
+#GitBook
 - [GitBook](https://www.gitbook.com/explore)
 
 
+#机器学习
+- [index](https://github.com/ty4z2008/Qix/blob/master/dl.md)
 
+#算法
+- [极客算法入门](http://wiki.jikexueyuan.com/list/sort/)
 
 
